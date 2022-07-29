@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/Mentalreaper/xdy-discord-bot/issues"
   },
-  "homepage": "https://github.com/Mentalreaper/xdy-discord-bot#readme",
-  "publishConfig": {
-    "@Mentalreaper/registry": "https://npm.pkg.github.com"
-  }
+  "homepage": "https://github.com/Mentalreaper/xdy-discord-bot#readme"
 }

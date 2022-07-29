@@ -1,5 +1,5 @@
 {
-  "name": "xdy-discord-bot",
+  "name": "xdy-discord-bot", 
   "version": "1.0.0",
   "description": "A Discord bot. Rolls xDy dice, where x is the number of dice, and y is the number of sides.",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mentalreaper/xdy-discord-bot/issues"
   },
-  "homepage": "https://github.com/Mentalreaper/xdy-discord-bot#readme"
+  "homepage": "https://github.com/Mentalreaper/xdy-discord-bot#readme",
+  "publishConfig": {
+    "@Mentalreaper/registry": "https://npm.pkg.github.com"
+  }
 }
